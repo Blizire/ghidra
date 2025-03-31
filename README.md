@@ -1,0 +1,2 @@
+# ghidra
+misc ghidra stuff
